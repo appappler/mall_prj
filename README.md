@@ -1,4 +1,4 @@
-# 🛍️ Donutted - JSP 기반 온라인 쇼핑몰
+# 🛍️ Donutted - 온라인 쇼핑몰 프로젝트
 
 <img width="705" height="1016" alt="image" src="https://github.com/user-attachments/assets/8da5be06-5f50-49b0-83ea-74a9b335d059" />
 
